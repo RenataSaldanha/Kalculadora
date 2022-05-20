@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Kalculadora</string>
+    <string name="c_string">C</string>
+    <string name="igual">=</string>
+    <string name="descrição_backspace">Retângulo com a ponta esquerda em formato triangular, e com um x no centro</string>
+    <string name="numero_zero">0</string>
+    <string name="ponto">.</string>
+    <string name="operador_adicionar">+</string>
+    <string name="numero_tres">3</string>
+    <string name="numero_dois">2</string>
+    <string name="numero_um">1</string>
+    <string name="operador_subtrair">-</string>
+    <string name="numero_seis">6</string>
+    <string name="numero_cinco">5</string>
+    <string name="numero_quatro">4</string>
+    <string name="operador_multiplicar">x</string>
+    <string name="numero_nove">9</string>
+    <string name="numero_oito">8</string>
+    <string name="numero_sete">7</string>
+    <string name="operador_dividir">/</string>
 </resources>
